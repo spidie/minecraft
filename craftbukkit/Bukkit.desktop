@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_AU]=/home/mc/minecraft/craftbukkit/logo.png
+Exec=/home/mc/minecraft/craftbukkit/craftbukkit.sh
+Name[en_AU]=Bukkit
+Name=Bukkit
+Icon=/home/mc/minecraft/craftbukkit/logo.png
